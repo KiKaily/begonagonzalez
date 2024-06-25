@@ -150,7 +150,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #fff;
+		color: #f7e490;
 		font-weight: 600;
 	}
 
@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #f7e490;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -1907,7 +1907,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #fff;
+			color: #f7e490;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
